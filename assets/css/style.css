@@ -14,10 +14,6 @@
 		background: #f7f7f7 url("images/bg01.png");
 	}
 
-	body.is-loading {
-		visibility: hidden;
-	}
-
 	body.is-loading * {
 		-moz-transition: none !important;
 		-webkit-transition: none !important;
